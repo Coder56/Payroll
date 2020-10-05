@@ -1,0 +1,6 @@
+C:\Users\asus\Desktop\MonthlyPayslipGenerator-master\MonthlyPayslip.Generator\bin\Debug\MonthlyPayslip.Generator.dll
+C:\Users\asus\Desktop\MonthlyPayslipGenerator-master\MonthlyPayslip.Generator\bin\Debug\MonthlyPayslip.Generator.pdb
+C:\Users\asus\Desktop\MonthlyPayslipGenerator-master\MonthlyPayslip.Generator\obj\Debug\MonthlyPayslip.Calculator.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\MonthlyPayslipGenerator-master\MonthlyPayslip.Generator\obj\Debug\MonthlyPayslip.Generator.dll
+C:\Users\asus\Desktop\MonthlyPayslipGenerator-master\MonthlyPayslip.Generator\obj\Debug\MonthlyPayslip.Generator.pdb
+C:\Users\asus\Desktop\MonthlyPayslipGenerator-master\MonthlyPayslip.Generator\obj\Debug\MonthlyPayslip.Calculator.csprojAssemblyReference.cache
